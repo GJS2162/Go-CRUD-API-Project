@@ -1,5 +1,8 @@
 # Go-CRUD-API-Project
 
+![Inventory Management](postman.png)
+
+
 This project is a **Go-based CRUD API for inventory management** of products. It utilizes MySQL for persistent data storage and provides API endpoints for managing your inventory through:
 
 * **GET:** Retrieve information about existing products.
